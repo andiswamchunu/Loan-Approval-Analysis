@@ -57,9 +57,7 @@ The dataset used for this project includes the following columns:
 ## Tools and Technologies Used
 - **Python**: Data cleaning, analysis, and visualization
 - **Pandas**: Data manipulation
-- **NumPy**: Numerical operations
 - **Matplotlib/Seaborn**: Data visualization
-- **SQL**: Database management and querying
 - **Jupyter Notebook**: For running the analysis in an interactive environment
 
 ## Data Analysis Process
@@ -77,7 +75,7 @@ The dataset used for this project includes the following columns:
 - Identified key factors that influence loan approval such as income, credit score, and employment status.
 
 ### Key Findings
-- Higher credit scores and stable employment significantly increase loan approval chances.
+- Higher credit scores do not neccesarily increase loan approval chances.
 - Applicants with bankruptcy history or high debt-to-income ratios are more likely to be denied.
 - Insights suggest potential improvements in the loan application process to reduce default risks.
 
